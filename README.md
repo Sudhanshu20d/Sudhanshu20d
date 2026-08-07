@@ -22,7 +22,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shudhanshu_sd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shudhanshu_sd" height="30" width="40" /></a>
+ <a href="https://x.com/shudhanshu_sd" target="_blank">
+    <img align="center"
+      src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg"
+      alt="Shudhanshu on X"
+      height="30"
+      width="30" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
