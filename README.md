@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu20d" alt="sudhanshu20d" /></a> </p>
 
-<p align="left">
-<a href="https://x.com/shudhanshu_sd" target="_blank">
-<img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Profile"/>
-</a>
-</p>
 
 - 🔭 I’m currently working on **CRM365**
 
