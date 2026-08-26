@@ -37,46 +37,42 @@
 
   <!-- Editor body -->
   <g class="cl0">
-    <text x="184" y="93" fill="#6a737d" text-anchor="end" font-size="12">1</text>
-    <g transform="translate(194 93)"><text x="0" fill="#569cd6" font-weight="700">#</text><text x="16.8" fill="#d4d4d4" font-weight="700">Hi, I&apos;m Sudhanshu Singh</text></g>
+    <text x="184" y="104" fill="#6a737d" text-anchor="end" font-size="12">1</text>
+    <g transform="translate(194 104)"><text x="0" fill="#569cd6" font-weight="700">#</text><text x="16.8" fill="#d4d4d4" font-weight="700">Hi, I&apos;m Sudhanshu Singh</text></g>
   </g>
   <g class="cl1">
-    <text x="184" y="115" fill="#6a737d" text-anchor="end" font-size="12">2</text>
+    <text x="184" y="126" fill="#6a737d" text-anchor="end" font-size="12">2</text>
     
   </g>
   <g class="cl2">
-    <text x="184" y="137" fill="#6a737d" text-anchor="end" font-size="12">3</text>
-    <g transform="translate(194 137)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">I build modern, scalable mobile applications with Flutter &amp; Dart.</text></g>
+    <text x="184" y="148" fill="#6a737d" text-anchor="end" font-size="12">3</text>
+    <g transform="translate(194 148)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">I build modern, scalable mobile applications with Flutter &amp; Dart.</text></g>
   </g>
   <g class="cl3">
-    <text x="184" y="159" fill="#6a737d" text-anchor="end" font-size="12">4</text>
-    <g transform="translate(194 159)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">Passionate about clean UI, API integrations, Firebase and turning</text></g>
+    <text x="184" y="170" fill="#6a737d" text-anchor="end" font-size="12">4</text>
+    <g transform="translate(194 170)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">Passionate about clean UI, API integrations, Firebase and turning</text></g>
   </g>
   <g class="cl4">
-    <text x="184" y="181" fill="#6a737d" text-anchor="end" font-size="12">5</text>
-    <g transform="translate(194 181)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">ideas into reliable products.</text></g>
+    <text x="184" y="192" fill="#6a737d" text-anchor="end" font-size="12">5</text>
+    <g transform="translate(194 192)"><text x="0" fill="#ce9178">&gt;</text><text x="16.8" fill="#d4d4d4">ideas into reliable products.</text></g>
   </g>
   <g class="cl5">
-    <text x="184" y="203" fill="#6a737d" text-anchor="end" font-size="12">6</text>
+    <text x="184" y="214" fill="#6a737d" text-anchor="end" font-size="12">6</text>
     
   </g>
   <g class="cl6">
-    <text x="184" y="225" fill="#6a737d" text-anchor="end" font-size="12">7</text>
-    <g transform="translate(194 225)"><text x="0" fill="#569cd6" font-weight="600">##</text><text x="25.200000000000003" fill="#d4d4d4" font-weight="600">tags</text></g>
+    <text x="184" y="236" fill="#6a737d" text-anchor="end" font-size="12">7</text>
+    <g transform="translate(194 236)"><text x="0" fill="#569cd6" font-weight="600">##</text><text x="25.200000000000003" fill="#d4d4d4" font-weight="600">tags</text></g>
   </g>
   <g class="cl7">
-    <text x="184" y="247" fill="#6a737d" text-anchor="end" font-size="12">8</text>
-    <g transform="translate(194 247)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">Flutter Developer</text></g>
+    <text x="184" y="258" fill="#6a737d" text-anchor="end" font-size="12">8</text>
+    <g transform="translate(194 258)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">Flutter Developer</text></g>
   </g>
   <g class="cl8">
-    <text x="184" y="269" fill="#6a737d" text-anchor="end" font-size="12">9</text>
-    <g transform="translate(194 269)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">Success innovative technologies</text></g>
-  </g>
-  <g class="cl9">
-    <text x="184" y="291" fill="#6a737d" text-anchor="end" font-size="12">10</text>
-    <g transform="translate(194 291)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">Surat</text></g>
+    <text x="184" y="280" fill="#6a737d" text-anchor="end" font-size="12">9</text>
+    <g transform="translate(194 280)"><text x="0" fill="#d4d4d4">-</text><text x="16.8" fill="#d4d4d4">India</text></g>
   </g>
 
   <!-- Blinking cursor at end of last non-blank line -->
-  <rect x="252.8" y="279" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
+  <rect x="252.8" y="268" width="2" height="17" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
 </svg>

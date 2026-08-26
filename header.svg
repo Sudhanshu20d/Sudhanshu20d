@@ -40,34 +40,30 @@
 
   <!-- Editor body -->
   <g class="cl0">
-    <text x="184" y="136" fill="#6a737d" text-anchor="end" font-size="11">1</text>
-    <g transform="translate(194 136)"><text x="0" fill="#d4d4d4">{</text></g>
+    <text x="184" y="146" fill="#6a737d" text-anchor="end" font-size="11">1</text>
+    <g transform="translate(194 146)"><text x="0" fill="#d4d4d4">{</text></g>
   </g>
   <g class="cl1">
-    <text x="184" y="156" fill="#6a737d" text-anchor="end" font-size="11">2</text>
-    <g transform="translate(194 156)"><text x="13.2" fill="#569cd6">&quot;name&quot;</text><text x="52.8" fill="#d4d4d4">:</text><text x="66" fill="#ce9178">&quot;Sudhanshu Singh&quot;</text><text x="178.2" fill="#d4d4d4">,</text></g>
+    <text x="184" y="166" fill="#6a737d" text-anchor="end" font-size="11">2</text>
+    <g transform="translate(194 166)"><text x="13.2" fill="#569cd6">&quot;name&quot;</text><text x="52.8" fill="#d4d4d4">:</text><text x="66" fill="#ce9178">&quot;Sudhanshu Singh&quot;</text><text x="178.2" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl2">
-    <text x="184" y="176" fill="#6a737d" text-anchor="end" font-size="11">3</text>
-    <g transform="translate(194 176)"><text x="13.2" fill="#569cd6">&quot;role&quot;</text><text x="52.8" fill="#d4d4d4">:</text><text x="66" fill="#ce9178">&quot;Flutter Developer&quot;</text><text x="191.39999999999998" fill="#d4d4d4">,</text></g>
+    <text x="184" y="186" fill="#6a737d" text-anchor="end" font-size="11">3</text>
+    <g transform="translate(194 186)"><text x="13.2" fill="#569cd6">&quot;role&quot;</text><text x="52.8" fill="#d4d4d4">:</text><text x="66" fill="#ce9178">&quot;Flutter Developer&quot;</text><text x="191.39999999999998" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl3">
-    <text x="184" y="196" fill="#6a737d" text-anchor="end" font-size="11">4</text>
-    <g transform="translate(194 196)"><text x="13.2" fill="#569cd6">&quot;org&quot;</text><text x="46.199999999999996" fill="#d4d4d4">:</text><text x="59.4" fill="#ce9178">&quot;Success innovative technologies&quot;</text><text x="277.2" fill="#d4d4d4">,</text></g>
+    <text x="184" y="206" fill="#6a737d" text-anchor="end" font-size="11">4</text>
+    <g transform="translate(194 206)"><text x="13.2" fill="#569cd6">&quot;location&quot;</text><text x="79.19999999999999" fill="#d4d4d4">:</text><text x="92.39999999999999" fill="#ce9178">&quot;India&quot;</text><text x="138.6" fill="#d4d4d4">,</text></g>
   </g>
   <g class="cl4">
-    <text x="184" y="216" fill="#6a737d" text-anchor="end" font-size="11">5</text>
-    <g transform="translate(194 216)"><text x="13.2" fill="#569cd6">&quot;location&quot;</text><text x="79.19999999999999" fill="#d4d4d4">:</text><text x="92.39999999999999" fill="#ce9178">&quot;Surat&quot;</text><text x="138.6" fill="#d4d4d4">,</text></g>
+    <text x="184" y="226" fill="#6a737d" text-anchor="end" font-size="11">5</text>
+    <g transform="translate(194 226)"><text x="13.2" fill="#569cd6">&quot;tagline&quot;</text><text x="72.6" fill="#d4d4d4">:</text><text x="85.8" fill="#ce9178">&quot;🚀 App Developer | Flutter • Dart • Android Passionate about building…&quot;</text></g>
   </g>
   <g class="cl5">
-    <text x="184" y="236" fill="#6a737d" text-anchor="end" font-size="11">6</text>
-    <g transform="translate(194 236)"><text x="13.2" fill="#569cd6">&quot;tagline&quot;</text><text x="72.6" fill="#d4d4d4">:</text><text x="85.8" fill="#ce9178">&quot;🚀 App Developer | Flutter • Dart • Android Passionate about building…&quot;</text></g>
-  </g>
-  <g class="cl6">
-    <text x="184" y="256" fill="#6a737d" text-anchor="end" font-size="11">7</text>
-    <g transform="translate(194 256)"><text x="0" fill="#d4d4d4">}</text></g>
+    <text x="184" y="246" fill="#6a737d" text-anchor="end" font-size="11">6</text>
+    <g transform="translate(194 246)"><text x="0" fill="#d4d4d4">}</text></g>
   </g>
 
   <!-- Blinking cursor at end of last value line -->
-  <rect x="1289.6" y="227" width="2" height="13" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
+  <rect x="1289.6" y="217" width="2" height="13" fill="#d4d4d4" style="animation: blink 1s steps(1) infinite"/>
 </svg>
